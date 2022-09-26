@@ -1,0 +1,55 @@
+Objectives of AWS Cloud Economics
+- Identifying 2 main areas of cloud economics (Business Value TCO and Cloud financial mgmt)
+- Concept of business value in cloud economics
+- 4 pillars involved in Cloud Value Framework
+- Example of value realized by migrating to AWS
+
+Business Value - discussion with customer to improve Bus val
+Cloud financial mgmnt - financial managing tools and benefits for customer
+
+Why cloud economics (Business value evaluation with business case demo)
+- Increases win rates (Greater win rate)
+- Grow deal size (Greater revenue growth)
+- Accelerate sales cycle (20 days Faster sales cycle)
+- Eliminates uncertainty about finance
+
+Business value evaluation
+Values are delivered by:
+Conversation --> analysis --> full value (X)
+Proofs of concept -> Architectural reviews -> Migration of workloads (correct)
+
+Purpose of analysis -> case of point where cust are satisfied
+
+Cloud value framework
+- Cost savings (CTO)
+- Staff productivity
+- Operational resilience
+- Business agility
+
+Cloud Value Framework : Cost Savings
+- Cost savings (TCO) - important
+- Staff Productivity - relieves resources
+- Operational resilience - more uptime and less downtime
+- Business agility - Respond faster
+
+Examples of value realized
+- Cost saving - samsung reduced $34 million capex
+- Staff productivity - AdRoll reduced $3 million in staffing costs
+- Operational resilience - MedStar Health reduced downtime from 2 hrs to less than 5 min per month
+- Business Agility - Aon Reduced cal and reporting time from 10 days to 10 minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
