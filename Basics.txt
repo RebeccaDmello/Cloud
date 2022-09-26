@@ -1,2 +1,19 @@
-AWS Certification
+- AWS Certification (Practitioners)
+- Fundamental concepts and use cases of AWS
+- Next level (AWS solution architect, data analytics, ML)
+
+Content
+-Technical Professional Accreditation
+-AWS Partner: Cloud Practitioner Essentials
+-Cloud Economics Accreditation
+ 
+Phase 1 (Technical and Sales Accredited)
+Phase 2 (Cloud Economics Accredited)
+
+Step 1 : Create an APN (AWS Partner Network) Account
+https://partnercentral.awspartner.com/APNSelfRegister
+
+Step 2: 
+
+
 
