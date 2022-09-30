@@ -30,7 +30,7 @@ Regional edge caches - larger version of edge locations
 CORE Components
 - compute, storage, database, security, managment, networking
 
-Compute => develop, deploy, run and scale workloads in the AWS Cloud
+1. Compute (EC2, AMIs and Loadbalancer) => develop, deploy, run and scale workloads in the AWS Cloud
 - Resize compute capacity, EC2 instance Elastic compute cloud a virtual machine
 - Auto scaling, increase or decrease number of instances
 - Elastic Load Balancing, distribute incoming traffic
@@ -38,13 +38,49 @@ Compute => develop, deploy, run and scale workloads in the AWS Cloud
 - Run Kubernetes app on AWS and on premises
 - AWS Lambda, Run code in response to events
 
-Benefits of Amazon EC2
+Benefits of Amazon EC2 => general purpose,Compute optimized, memory optimized, accelerated computing, storage optimized
 - Elasticity (increase/decrease demand)
 - Control over instance (Start/stop/reboot/terminate)
 - Flexibility (compute optimized) - c5d.large, c5d.xlarge, 2xlarge.... vCPUs
 - Integrated
 - Reliable
 - Secure
+- Cost-effective
+- Easy
+
+Amazon Machine Images (AMI), AWS marketplace(buy resources of aws like instance image), Community AMIs (image created by individual, risky-security)
+purpose of AMIs - machine image had Operating system and other applications required
+
+Amazon ELB - Elastic Load Balancing
+- distributes traffic across multiple EC2 instances
+- Increases availability and fault tolerance
+- configure health checks
+- Offload encryption and decryption
+
+2. Storage services - reliable, scalable and secure place for data
+- Elastic Block Storage (EBS) = persistent block-level storage (kinda hardrive)
+- Simple Storage Service (S3) - storage classes = durable, scalable object, versatile, used for datalakes, backup and storage, app hosting, media hosting, software delivery
+(S3 standard - expensive, S3 standard infrequent access, infrequent access, storage classes)
+***intelligent-tiring automatically moves objects between tiers based on access patterns (very cost efficient)
+- Storage Glacier (Cheapest)  = data archiving and backup (don't store what you need immediately)
+- Storage Gateway = integrate cloud storage with on-site workloads
+- Elastic File System = File storage for amazon EC2 instances
+- FSx = widely-used file systems
+
+- Amazon EBS provides block storage for instances (permanent)
+- Amazon S3 provides highly available object storage (everything else - website, content distribution, data leak for analytics - more general purpose storage)
+- Amazon S3 offers several tiers, including amazon glacier, to better align with different storage scenarios
+
+
+
+
+
+
+
+
+
+
+
 
 
 
