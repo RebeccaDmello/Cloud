@@ -1,7 +1,62 @@
 Path way of certification 
 Technical accredited -> well archi -> security -> solutions archi -> cloud practioner -> authorized instructor
 
-AWS Solution archi design and cost optimization
+GOAL - AWS Solution archi design and cost optimization
 
 Assessment- https://awsvirtual.webex.com/awsvirtual/url.php?frompanel=false&gourl=https%3A%2F%2Fexplore.skillbuilder.aws%2Flearn%2Fcourse%2Finternal%2Fview%2Felearning%2F10715%2Fassessment-for-aws-partner-accreditation-technical
+
+on-premises IT - servers, storage, databases, applications, corporate network
+
+Cloud computing is on-demand delivery of computing power, database storage, applications and other IT resources via the internet - pay as you go.
+
+Benefits of cloud computing
+- agility, elasticity, cost savings, deploy globally in minutes
+- fault tolerance and high availability
+
+Products -> analytics, compute, storage, networking, management tools, mobile, databases, security, IoT etc
+
+AWS Management Console / software development skill (User mgmt console) 
+- Media services, databases, storage, cost mgmnt, security, containers, computer, ML (200 services, 27 regions)
+
+Region is made of 3-4 availability zones -> made of datacenters
+regions -> availability zones -> datacenters (share low latency and connectivity but are independent of each other)
+
+Local  zones - extension of regions, 
+wavelength zones - internet connectivity between 5G, 
+Direct connect locations , 
+Edge locations - cloud front service for content distribution, 
+Regional edge caches - larger version of edge locations
+
+CORE Components
+- compute, storage, database, security, managment, networking
+
+Compute => develop, deploy, run and scale workloads in the AWS Cloud
+- Resize compute capacity, EC2 instance Elastic compute cloud a virtual machine
+- Auto scaling, increase or decrease number of instances
+- Elastic Load Balancing, distribute incoming traffic
+- Run applications on a managed cluster
+- Run Kubernetes app on AWS and on premises
+- AWS Lambda, Run code in response to events
+
+Benefits of Amazon EC2
+- Elasticity (increase/decrease demand)
+- Control over instance (Start/stop/reboot/terminate)
+- Flexibility (compute optimized) - c5d.large, c5d.xlarge, 2xlarge.... vCPUs
+- Integrated
+- Reliable
+- Secure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
