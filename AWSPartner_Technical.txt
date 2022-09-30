@@ -130,9 +130,30 @@ Key phases of presenting -> Discovery, Presenting the solution, Delivering a POC
 Objection handling best practices
 - data-driven approach, Use case studies, Dive deep, have backbone, keep the momentum going
 
+Migration and beyond (Criteria of migration)
+- MVP(minimum viable product), well-architected review
+- Migration process consists of 3 phase - assessment(identify readiness), readiness and planning(analyze environment, determine migration strategies),
+migration and modernization (design, migrate and validated each application, automatic or manual, migrate data, modernize)
+
+Containers (Use cases)
+- Microservices, batch processing, machine learning, hybrid app, app migration to the cloud, PaaS
+
+Serverless
+- compute = ;ambda, lambda@edge, fargate
+- storage = amazon s3, amazon EFS
+- data stores = DynamoDB, Amazon Aurora serverless
+- API proxy = amazon API Gateway
+- Application Integration
+
+Data lakes and analytics solutions on AWS
+- Interactive analytics, Big data processing, data warehousing etc
+
+
+
 References-
 Database links- Databases https://aws.amazon.com/products/databases/ 
-RDS https://aws.amazon.com/rds/ Aurora https://aws.amazon.com/rds/aurora/ 
+RDS https://aws.amazon.com/rds/ 
+Aurora https://aws.amazon.com/rds/aurora/ 
 DynamoDB https://aws.amazon.com/dynamodb/ 
 Database Migration https://aws.amazon.com/dms/ 
 Managed Blockchain https://aws.amazon.com/managed-blockchain/ 
