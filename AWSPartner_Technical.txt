@@ -1,1 +1,7 @@
+Path way of certification 
+Technical accredited -> well archi -> security -> solutions archi -> cloud practioner -> authorized instructor
+
+AWS Solution archi design and cost optimization
+
+Assessment- https://awsvirtual.webex.com/awsvirtual/url.php?frompanel=false&gourl=https%3A%2F%2Fexplore.skillbuilder.aws%2Flearn%2Fcourse%2Finternal%2Fview%2Felearning%2F10715%2Fassessment-for-aws-partner-accreditation-technical
 
