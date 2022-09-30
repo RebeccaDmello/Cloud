@@ -1,0 +1,48 @@
+AWS Partner: Accreditation Content
+
+Module 1: Course Introduction
+      • Module Introduction
+      • Housekeeping
+      • Course Objectives
+      • Course Overview of the Different Modules
+
+Module 2: Introduction to AWS Core Technologies
+      • Cloud Computing Overview
+      • AWS Core Technologies
+        o Compute
+        o Storage
+        o Databases
+        o Networking
+        o Security
+      • Service Breadth and Depth
+
+Module 3: From Services to Solutions
+      • AWS Solutions
+      • Addressing Customer Challenges
+      • Migration Strategies
+      • Cloud Architecture Best Practices
+      • The Well-Architected Framework
+      • AWS Cloud Adoption Framework
+      • Benefits of Customer Use Cases
+
+Module 4: Presenting AWS Solutions to Customers
+      • Key phases
+      • Discovery
+      • Handling Objections
+      • Customer Meeting Best Practices
+      • Partner Presents the Solution
+      • Delivering a Proof of Concept (PoC)
+
+Module 5: Looking Ahead
+      • Implementation
+      • Modernization
+
+Module 6: AWS Partner Network Resources
+      • APN Overview
+      • Training
+      • Partner Team
+      • Accreditation Assessment
+      • Hands-On Lab: Create an Amazon S3 bucket
+      • Hands-On Lab: Configure High Availability for Your Application
+      • Wrap-up
+
