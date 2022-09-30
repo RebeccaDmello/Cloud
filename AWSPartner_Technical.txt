@@ -123,10 +123,12 @@ Six-pillars
 - Cost optimization
 - Sustainability
 
-AWS Cloud Adoption Framework - 
+AWS Cloud Adoption Framework , AWS quick starts (Foundational security best practices)
 
+Key phases of presenting -> Discovery, Presenting the solution, Delivering a POC
 
-
+Objection handling best practices
+- data-driven approach, Use case studies, Dive deep, have backbone, keep the momentum going
 
 References-
 Database links- Databases https://aws.amazon.com/products/databases/ 
