@@ -1,0 +1,90 @@
+Which statement best describes Amazon Elastic Block Store (Amazon EBS)?
+-> Provides block level storage volumes for use with EC2 instances
+
+Which of the following best describes Serverless architectures?
+-> A serverless architecture is a way to build and run applications and services without having to manage infrastructure. 
+
+Which statement best describes the AWS Customer Success site?
+->It is a resource for finding use cases to help inspire solution design and build confidence with customers.
+
+Which statement best describes APN Partner Central?
+-> It is a resource providing APN Partners with the tools and content they need to grow their businesses on AWS
+
+Which statement best describes the AWS Well-Architected Framework?
+-> It is a resource for finding use cases to help inspire solution design and build confidence with customers.
+->AWS Well-Architected helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for a variety of applications and workloads. 
+Built around six pillars—operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability
+AWS Well-Architected provides a consistent approach for customers and partners to evaluate architectures and implement scalable designs.
+
+Which definition best describes AWS edge locations?
+-> Locations designed to deliver content to end users
+
+Which migration strategy consists of a simple transfer of application resources from an on-premises data center to the AWS cloud? 
+-> Rehost
+
+Which of the following statements best describes a Proof of Concept (POC)?
+-> A POC is a small scale, practical example of the proposed solution
+
+Which of the following best describes the functionality of Containers?
+-> Containers provide a standard way to package your application's code, configurations, and dependencies into a single object.
+
+Which best describes Amazon Elastic Cloud Compute(EC2) "Memory Optimized" instances types?
+-> designed to deliver fast performance for workloads that process large data sets in memory
+
+Which best describes Amazon Elastic Cloud Compute (Amazon EC2) "General Purpose" instance types?
+-> General Purpose - provides a balance of compute, memory and netwokring resources, and can be used for a variety of diverse workloads
+
+Which partners would fall under the AWS Partner Services Path? 
+-> Partners that deliver consulting, professional, managed and value-add resale services
+
+Which migration strategy consists of re-architecting an application, typically using cloud native features?
+-> Refactoring / Re-architecting
+
+In which stage of the partner journey do partners earn the bulk of their benefits for each stage once they have met the minimum requirements?
+-> Differentiated
+
+Which statement best describes Amazon Simple Storage Service (Amazon S3)?
+->Amazon S3 is object storage built to store and retrieve any amount of data from anywhere.
+
+At what level do Network Access Control Lists (NACLs) provide protection?
+-> Subnet
+
+Which definition best describes AWS regions?
+-> Separate, isolated geographic areas that contain availability zones
+
+Which statements accurately reflect the principles of the Shared Responsibility Model (choose two)? 
+-> Customers are responsible for securing their applications and data
+-> AWS is responsible for securing the physical network infrastructure
+
+A customer wishes to increase the availability of their AWS cloudhosted application.  Which approaches which will help them achieve their goal (choose two)?
+-> host application instances on multiple availability zones
+-> Use multiple instances instead of just one
+
+Which statement best describes Amazon Simple Storage Service Glacier (Amazon S3 Glacier)? 
+-> Amazon S3 Glacier is a low-cost object storage service designed for data archiving
+
+Which of the following are benefits of Amazon Elastic Cloud Compute (Amazon EC2) (choose two).
+-> Scale compute resources in or out based upon demand
+-> Large selection of instance types and sizes to meet application demands
+
+Which of the following AWS services could serve as a migration target for an on-premises MySQL database?
+-> Amazon RDS 
+
+Which of the following are advantages of cloud computing (choose two). 
+-> Increase Speed and Agility
+-> Higher latency for global customers
+-> Benefits from massive economies of scale
+
+At what level do Security Groups provide protection?
+-> virtual private cloud - VPC
+
+Which statement best describes Amazon Virtual Private Cloud (Amazon VPC)?
+-> Amazon VPC acts as a virtual network within customers can launch AWS resources
+
+Which best describes Amazon Elastic Cloud Compute (Amazon EC2) “Compute Optimized" instances types?
+-> Compute Optimized instances are ideal for compute bound applications that benefit from high performance processors.
+
+Which of the following statements are true regarding a WellArchitected review (choose two)?
+-> It uses the AWS well-architected tool in the console
+-> It compares a customer's workload to the latest AWS architectural best practices
+
