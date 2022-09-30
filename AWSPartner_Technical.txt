@@ -5,6 +5,8 @@ GOAL - AWS Solution archi design and cost optimization
 
 Assessment- https://awsvirtual.webex.com/awsvirtual/url.php?frompanel=false&gourl=https%3A%2F%2Fexplore.skillbuilder.aws%2Flearn%2Fcourse%2Finternal%2Fview%2Felearning%2F10715%2Fassessment-for-aws-partner-accreditation-technical
 
+https://awsvirtual.webex.com/awsvirtual/url.php?frompanel=false&gourl=https%3A%2F%2Fexplore.skillbuilder.aws%2Flearn%2Fcourse%2Finternal%2Fview%2Felearning%2F10715%2Fassessment-for-aws-partner-accreditation-technical
+
 on-premises IT - servers, storage, databases, applications, corporate network
 
 Cloud computing is on-demand delivery of computing power, database storage, applications and other IT resources via the internet - pay as you go.
