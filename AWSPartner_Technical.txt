@@ -115,14 +115,29 @@ Cloud architecture best practices
 - Do not fear constraints 
 
 The well-architected framework
-- 
+Six-pillars
+- Operational excellence
+- Security
+- Reliability
+- Performance efficiency
+- Cost optimization
+- Sustainability
+
+AWS Cloud Adoption Framework - 
 
 
 
 
+References-
+Database links- Databases https://aws.amazon.com/products/databases/ 
+RDS https://aws.amazon.com/rds/ Aurora https://aws.amazon.com/rds/aurora/ 
+DynamoDB https://aws.amazon.com/dynamodb/ 
+Database Migration https://aws.amazon.com/dms/ 
+Managed Blockchain https://aws.amazon.com/managed-blockchain/ 
+Elasticache https://aws.amazon.com/elasticache/ 
+DynamoDB Accelerator (DAX) https://aws.amazon.com/dynamodb/dax/
 
-
-
+Case Studies https://aws.amazon.com/solutions/case-studies/
 
 
 
