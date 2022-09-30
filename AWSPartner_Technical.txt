@@ -71,6 +71,53 @@ Amazon ELB - Elastic Load Balancing
 - Amazon S3 provides highly available object storage (everything else - website, content distribution, data leak for analytics - more general purpose storage)
 - Amazon S3 offers several tiers, including amazon glacier, to better align with different storage scenarios
 
+3.Database Services
+- Relational db service - cost-efficient and resizable capacity (Postgresql , mysql, mariadb, Amazon AURORA - very efficient (6 total))
+- DynamoDB - fast and predictable performance (amazon redshift, documentsDB(mongoDB), neptune, QLDB)
+- ElastiCache - fast, managed info retrieval
+
+Database Migration Service - Migrate relational databases, nonrelational databases and other types of data stores
+
+4. Security across regions, availability zones, edge locations is responsibility of cloud
+customer data is responsibility of customer
+
+AWS Identity and access management (IAM)
+- fine-grained access control to aws resources
+- multi-factor authentication (MFA)
+- ability to analyze access
+- Integration with corporate directories
+
+AWS Cloud compliance => Artifact reports + artifact agreements
+
+5. AWS management interface -> mangement console, AWS Command Line Interface, Software development kits
+
+6. NEtworking- VPN, App/web servers, load balancers, databases
+
+Module 3 - AWS solutions
+ML, analytics and data lakes, IoT, serverless computing, containers, enterprise app, storage and windows workloads
+
+Migration Strategies (seven R's) - replatform, migration functionality and optimize components
+- Rehost - lift and shift, recreating on-premises network, only hosted on AWS, automating with tools such as web/app migration
+- Relocate - hypervisor-level lift and shift, migration specific to VMWare cloud on AWS
+- Replatform - lift, tinker and shift, making targeted aws cloud optimizations, making targeted aws cloud optimization
+- Refactor - modernize, re-imagining how the app is architected and developed, using cloud-native features like containers and serverless
+- retire - shutting-off
+- retain/revisit - keeping certain app on-premises
+- repurchase - moving workflows to SaaS
+
+Cloud architecture best practices
+- design for failure and nothing fails (use multiple EC2 instances)
+- Build security in every layer (encrypt data at rest and in transit, configure security groups)
+- leverage different storage options (move static web assets to amazon s3, amazon cloudfront to serve globally, store session state in amazon dynamoDB)
+- Implement elasticity (implement autoscaling policies, architect resiliency to reboot and relunch, leverage managed services like amazon s3 and amazon dynamoDB)
+- Think parallel (scale horizontally not vertically, decouple compute from session/state, use elastic load balancing)
+- Loose coupling sets you free (use multiple queues, use existing services)
+- Do not fear constraints 
+
+The well-architcted framework
+
+
+
 
 
 
