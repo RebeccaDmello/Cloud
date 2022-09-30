@@ -114,8 +114,8 @@ Cloud architecture best practices
 - Loose coupling sets you free (use multiple queues, use existing services)
 - Do not fear constraints 
 
-The well-architcted framework
-
+The well-architected framework
+- 
 
 
 
