@@ -4,7 +4,7 @@ Objectives of AWS Cloud Economics
 - 4 pillars involved in Cloud Value Framework
 - Example of value realized by migrating to AWS
 
-Business Value - discussion with customer to improve Bus val
+Business Value - discussion with customer to improve Business value
 Cloud financial mgmnt - financial managing tools and benefits for customer
 
 Why cloud economics (Business value evaluation with business case demo)
@@ -30,7 +30,7 @@ Cloud Value Framework : Cost Savings
 - Cost savings (TCO) - important
 - Staff Productivity - relieves resources
 - Operational resilience - more uptime and less downtime
-- Business agility - Respond faster
+- Business Agility - Respond faster
 
 Examples of value realized
 - Cost saving - samsung reduced $34 million capex
@@ -40,8 +40,17 @@ Examples of value realized
 
 Module 2 - Cost Saving
 
+Explain to your customer how AWS can help lower their cost 
+-> 
+-> 
 
+Examples of customers of migration challenges
+-> 
+-> 
 
+Provide customers with an example of how to deliver cost savings
+->  
+->  
 
 
 
