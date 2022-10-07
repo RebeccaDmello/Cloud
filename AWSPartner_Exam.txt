@@ -88,3 +88,13 @@ Which of the following statements are true regarding a WellArchitected review (c
 -> It uses the AWS well-architected tool in the console
 -> It compares a customer's workload to the latest AWS architectural best practices
 
+---------------------------------Cloud Economics
+1. A _cost savings__ analysis calculates the total cost of ownership for running an end-to-end traditional IT environment versus deploying to AWS
+
+2. Which of the foll represents the best value of cost savings analysis for a customer?
+Providing a complete view of costs to deliver equal or improved performance with AWS when compared to an on-premises or co-location infrastructure
+
+3. AWS helps customers lower costs with => 
+A consumption-based model, AWS pricing models, Frequent price reductions
+
+
