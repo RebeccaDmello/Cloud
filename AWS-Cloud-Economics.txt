@@ -1,3 +1,6 @@
+
+Cloud Economics => Business value + Cloud financial management
+
 Objectives of AWS Cloud Economics
 - Identifying 2 main areas of cloud economics (Business Value TCO and Cloud financial mgmt)
 - Concept of business value in cloud economics
@@ -21,36 +24,88 @@ Proofs of concept -> Architectural reviews -> Migration of workloads (correct)
 Purpose of analysis -> case of point where cust are satisfied
 
 Cloud value framework
-- Cost savings (CTO)
+- Cost savings (TCO)
 - Staff productivity
 - Operational resilience
 - Business agility
 
 Cloud Value Framework : Cost Savings
-- Cost savings (TCO) - important
-- Staff Productivity - relieves resources
+- Cost savings (TCO) - important - how much they use using traditional approach while how much they use using AWS
+- Staff Productivity - relieves resources - 
 - Operational resilience - more uptime and less downtime
 - Business Agility - Respond faster
+
+Cost saving analysis - compare cost and check how much they will need to develop business case (Calculates total cost of analysis and ownership)
+- calculates total cost of ownership acquisition and operating cost
+
+Lower costs with AWS (reserved and spot instances)
+- Using comsumption-based model => pay what you use
+- AWS pricing models => Purchase order(PO) -> sends to department -> Overprovision/ Underprovision (inefficiency and financial losses) which is NOT in AWS
+- Frequent price reductions -> AWS pricing models -> Maturity = enough data, behavior , on-demand instances -> reserved instances reduce cost by 75%
+spot-instance, dedicated hosts, Increase efficiency and reduce costs, S3 glaciers
+- AWS reduces costs over long term
+- ROI 
+
+Amazon flywheel -> Lower prices, increases infra - low infra costs, economy of scale
+
+Cloud economics model example
+- Capital investment -> defining purchase cycle
+- Provisioning infra
+
+Migration Challenges => moves existing footprint to cloud
+-> Costs - sunk infra costs, cost of migration and decommissioning
+Formula => cost savings / (sunk costs + migration costs) = ROI
+Sunk cost => Depreciation (selling data centre to other compamy for operations) + recovery value (Can't sell data centre - no recovery value)
+
+Migration costs => MPA Tool used for cost analysis
+
+Cloud readiness
+- Human factor + applications are evaluated
+
+App readiness questions
+- what are your app dependencies ?
+- What apps are communicating with other apps?
+- What apps can be translated easily ?
+
+Entrenched IT department - IT org feels threatened by precerived loss of control or potential staff reductions
+Stakeholders - decision makers/team
+Cost savings engagement may require multiple discussions with dofferent messages for different audiences: Application developer(DevOps), IT support team, Procurement team, CFO/CIO/Investors. 
+
+Cost saving analysis discussions
+- Involves hardware, software and services
+
+Traditional IT - capex, long planning cycles, multiple components
+
+Perceived IT costs -> server costs, storage, network, IT labor cpsts, extra(planning, advisors, legal, contractors, managed services, training, cost of capital)
+
+Customer cost savings analysis best practises
+- Works => involve all stakeholders, work collaboratively with customers, use realistic usage percentages, assign cost/value to 
+business-value factors such as agility and risks
+- Does not work => focus purely on pricing and discounts, rather than cost analysis, compare a duplicate of an on-premises envi - problematic apples-to-apples comparision of machines, allow all decisions and vision to be based on an unchecked cost analysis, and fail to capture the true costs of IT, data center and on-premises,bring the cost savings discussion late in the decision-making process
+
+Engagement process full assessmment
+Kickoff => Cost savings overview, Timeline, scope and roles
+Data collection => 2-4 weeks
+Initial assessment => Review data, Initial assessment, ID open questions, assumptions
+Q&A => 1 week
+Full assessment => Incorporate new data, repeat as needed
+Iterate and finalize => 1 week
+Customer report out
+
+TSO Logic
+On-premises analysis and cloud planning 
+=> automated agentless data discovery or flat file ingest
+=> Identifies on-premises compute, attached storage, memory and Microsoft licenses
+=> Evaluates multiple future-state scenarios based on location, purchase type, utilization and other inputs
+=> Right-sizes overprovisioned resources to realize historically validated savings
+=> Available to partners that meet certain qualifications
 
 Examples of value realized
 - Cost saving - samsung reduced $34 million capex
 - Staff productivity - AdRoll reduced $3 million in staffing costs
 - Operational resilience - MedStar Health reduced downtime from 2 hrs to less than 5 min per month
 - Business Agility - Aon Reduced cal and reporting time from 10 days to 10 minutes
-
-Module 2 - Cost Saving
-
-Explain to your customer how AWS can help lower their cost 
--> 
--> 
-
-Examples of customers of migration challenges
--> 
--> 
-
-Provide customers with an example of how to deliver cost savings
-->  
-->  
+  
 
 
 
