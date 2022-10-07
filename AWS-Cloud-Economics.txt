@@ -105,7 +105,9 @@ Examples of value realized
 - Staff productivity - AdRoll reduced $3 million in staffing costs
 - Operational resilience - MedStar Health reduced downtime from 2 hrs to less than 5 min per month
 - Business Agility - Aon Reduced cal and reporting time from 10 days to 10 minutes
-  
+
+------ Module 3: Staff Productivity
+
 
 
 
