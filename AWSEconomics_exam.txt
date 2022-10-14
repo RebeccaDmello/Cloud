@@ -14,5 +14,19 @@ Business agility allows customers to innovate by increasing "fail fast" while re
 -> Being able to easily shut down failed initiatives without the pain and wasted resources associated with an inflexible on-premises environment
 
 Which of the following are Key Performance Indicators (KPIs) for measuring business agility? Select all that apply.
-->New applications launched per year, Adoption of new features, Deployment frequency, Employee retention
+-> New applications launched per year, Adoption of new features, Deployment frequency, Employee retention
 
+Which of the following is not one of the four key areas of cloud financial management?
+-> License pricing negotiation
+
+Identify the four best practices of cost optimization discussed in this module. Select all that apply.
+-> Instance right-sizing, Increasing elasticity, Choosing the right pricing model, 
+Matching usage to storage class (optimizing storage)
+
+Enabling cost transparency and leveraging tools for measuring and monitoring costs and 
+usage data are examples of which key area of cloud financial management?
+-> Measurement and accountability
+
+The following tools are available to customers for which area of cloud financial management?
+AWS Pricing Calculator, AWS service pricing pages, AWS Price list AP, AWS Cost Explorer, Migration Portfolio Assessment (MPA)
+-> Planning and forecasting
