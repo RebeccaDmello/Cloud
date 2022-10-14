@@ -1,1 +1,8 @@
+Staff productivity refers to the ____ gained from reducing or eliminating  tasks no longer needed with cloud services.
+-> Efficiency
 
+Operational resilience is the benefit gained from improved ___ and ___.
+-> availability and security
+
+Which of the following make up the four cornerstones of operational resilience?
+-> Infrastructure, operations, security, and software
