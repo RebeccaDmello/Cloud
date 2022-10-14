@@ -31,4 +31,39 @@ The following tools are available to customers for which area of cloud financial
 AWS Pricing Calculator, AWS service pricing pages, AWS Price list AP, AWS Cost Explorer, Migration Portfolio Assessment (MPA)
 -> Planning and forecasting
 
-All of the following are pillars of the Cloud Value Framework except which ones? Select all that apply.
+Cloud Economics = ________ + ________.
+-> business value + cloud financial mgmt
+
+Which kind of analysis calculates the total cost of ownership for running and end-to-end traditional IT environment versus deploying to AWS?
+-> Customer Satisfaction
+
+A cost savings analysis provides a complete view of costs to deliver equal or improved performance with AWS when compared to an on-premises or co-location infrastructure.
+-> True
+
+AWS helps customers lower costs with (select all that apply):
+->A consumption-based model, AWS pricing models, Frequent price reductions
+
+Which of the following are common migration challenges for customers discussed in this course? Select all that apply. 
+-> migration-related costs, shifting to an operational expenditure OPEX model,
+lack of cloud readiness
+
+
+__refers to the efficiency gained from reducing or eliminating tasks no longer needed with cloud services.
+-> staff productivity
+
+_________ is the benefit from gained and improved availability and security.
+-> Operational resilience
+
+Identify the four comerstones of operational resilience discussed in this course
+-> operations, security, software and infra
+
+Business agility means ________.
+-> Responding faster, experimenting more, and delivering results in the same or less amount of time
+
+Being able to easily shut down failed initiatives without the pain and wasted resources associated with an inflexible on-premises environment describes which concept?
+-> Agility awareness
+
+Identify the four key areas of cloud financial management discussed in this course. Select all that apply.
+-> Cost optimization, Planning and forecasting, Cloud financial operations, establishing cost transparency to ensure visibiilty into and accountability for spend
+
+
