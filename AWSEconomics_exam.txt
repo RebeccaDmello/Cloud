@@ -30,3 +30,5 @@ usage data are examples of which key area of cloud financial management?
 The following tools are available to customers for which area of cloud financial management?
 AWS Pricing Calculator, AWS service pricing pages, AWS Price list AP, AWS Cost Explorer, Migration Portfolio Assessment (MPA)
 -> Planning and forecasting
+
+All of the following are pillars of the Cloud Value Framework except which ones? Select all that apply.
