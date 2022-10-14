@@ -66,4 +66,9 @@ Being able to easily shut down failed initiatives without the pain and wasted re
 Identify the four key areas of cloud financial management discussed in this course. Select all that apply.
 -> Cost optimization, Planning and forecasting, Cloud financial operations, establishing cost transparency to ensure visibiilty into and accountability for spend
 
+Which of the following is not one of the four best practices of cost optimization discussed in this course?
+-> Increasing security standards
+
+Enabling cost transparency and leveraging tools for measuring and monitoring costs and usage data are examples of which key area of cloud financial management?
+-> Measurement and accountability
 
