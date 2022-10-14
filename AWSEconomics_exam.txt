@@ -6,3 +6,13 @@ Operational resilience is the benefit gained from improved ___ and ___.
 
 Which of the following make up the four cornerstones of operational resilience?
 -> Infrastructure, operations, security, and software
+
+Business agility means _________.
+-> Responding faster, experimenting more, and delivering results in the same or less amount of time 
+
+Business agility allows customers to innovate by increasing "fail fast" while reducing risks and costs. Which of the following best describes this concept of "fail fast"?
+-> Being able to easily shut down failed initiatives without the pain and wasted resources associated with an inflexible on-premises environment
+
+Which of the following are Key Performance Indicators (KPIs) for measuring business agility? Select all that apply.
+->New applications launched per year, Adoption of new features, Deployment frequency, Employee retention
+
