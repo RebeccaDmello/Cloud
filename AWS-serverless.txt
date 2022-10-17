@@ -67,3 +67,34 @@ WORKING - AWS Lambda - Invocation models
 - Amazon API Gateway triggers lambda synchronously
 - Amazon SQS triggers lambda via the polling invocation model
 
+Synchronous invocation 
+=> Client => Sending events to => lambda function
+-> Waits for completion of function execution, client expects immediate response from function
+-> API gateway, cognito, cloudformation, alexa, lex, cloudfront
+-> No builtin retries
+
+Asynchronous invocation
+=> Client => sending events to event queue => lambda function
+-> doesn't waits for completion of function execution, client doesn't expects immediate response from function
+-> Amazon SNS, S3, EventBridge
+-> two builtin retries
+
+Polling invocation
+=> Integrate AWS Streaming and queuing based services with no code or server mgmt.
+-> depends on event source
+-> amazon kinesis, SQS, DynamoDB streams
+-> retries based on event source and configuration
+
+Lambda Execution Environment operates in 3 phases
+1. INIT Phase -> extension, runtime, function (CONSTRUCTOR)
+=> All initialization process has been taken care of in this phase.
+extension init - loads all extensions, runtime init - bootstrap runtime, fun init- runs static code. It makes sure all extensions and runtime complete their setup before fun exe. 
+
+2. Invoke  Phase (ACTUAL EXE)
+=> lambda invokes function handler. After the func runs to completion, lambda prepares to
+handle another func invocation
+
+3. Shutdown Phase (DESTRUCTOR / GARBAGE COLLECTION)
+=> Lambda shuts down the runtime, alerts the extensions to let them stop cleanly and then removes the environment. Lambda sends a shutdown event to each extension, which tells the extension that the environment is about to be shut down.
+
+
