@@ -1,5 +1,6 @@
 Traditional architecture - deploy a web application on top of a single server such as an Amazon EC2 instance.
 
+(Build and deploy apps // Monitor and maintain apps)
 serverless architecture -  A serverless architecture is a way to build and run applications and services without having to manage infrastructure. 
 Your application still runs on servers, but all the server management is done by AWS.
 Developer action in serverless arch => writing custom code and application logic, provision instances
@@ -31,4 +32,38 @@ Which of these reflect best practices for serverless development environments an
 - Automate your build and deploy process
 - Leverage deployment and app mgmnt tools within the community
 
+What types of  potential cost savings should you evaluate when comparing serverless vs. server-based design? Select all that apply.
+- Reduced cost of idle server capacity
+- Benefit of shifting operating engin focus to tasks that better differentiate the business
+- Faster time to market
+
+AWS LAMBDA - compute service - Event-driven Architecture
+* Allows you to built your own code
+- You can use it to run code without provisioning or managing servers
+- Lambda runs your code on a high-availability compute infrastructure
+Working ::
+1. Event Producers - Mobile app, Retail website, Point-of-sale
+2. Event router - Question event, Order event, Inventory event = Amazon EventBridge(ingest + filter event using rules to forward them only to the specific consumer service)
+3. Event consumers - Warehouse mgmt DB, Financial system, customer service
+
+Lambda Function
+- The code you run on AWS Lamdba is called a Lambda function
+- Lambda functions are stateless, with no affinity to the underlying infrastructure.
+- After you upload your code to AWS Lambda, you can configure an event source, such as an Amazon Simple Storage Service (Amazon S3) event, Amazon DynamoDB stream, Amazon Kinesis stream, or Amazon Simple Notification Service (Amazon SNS) notification
+- When the resource changes and an event is initiated, Lambda will run your function and manage the compute resources as needed to keep up with incoming requests.
+- Access permissions - defines what services lambda is permitted to interact with.
+- Triggering events - specify which events or sources can initiate the function
+- Code, Dependencies - provide code and dependencies/libraries necessary to run your code
+- Configuration - define the execution parameters, such as memory, timeout and concurrency
+***
+Which of the following are features of AWS Lambda?
+- You can run code without provisioning or managing servers
+- It inintiates functions on your behalf in response to events
+- It scales automatically
+- It provides built-in monitoring and logging
+
+WORKING - AWS Lambda - Invocation models
+- Amazon S3 triggers lambda via an asynchronous push
+- Amazon API Gateway triggers lambda synchronously
+- Amazon SQS triggers lambda via the polling invocation model
 
