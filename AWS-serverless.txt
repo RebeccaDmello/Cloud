@@ -97,4 +97,12 @@ handle another func invocation
 3. Shutdown Phase (DESTRUCTOR / GARBAGE COLLECTION)
 => Lambda shuts down the runtime, alerts the extensions to let them stop cleanly and then removes the environment. Lambda sends a shutdown event to each extension, which tells the extension that the environment is about to be shut down.
 
+AWS Lambda security and permissions
+1. IAM Resource-based policy
+- Resource policies grant permissions to invoke the function, whereas the execution role strictly controls what the function can to do within the other AWS service.
+2. Resource-based policy
+- Resource policies make it easy to grant access to the Lambda function across separate AWS accounts.
+- 
+
+
 
