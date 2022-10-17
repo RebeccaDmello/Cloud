@@ -1,0 +1,34 @@
+Traditional architecture - deploy a web application on top of a single server such as an Amazon EC2 instance.
+
+serverless architecture -  A serverless architecture is a way to build and run applications and services without having to manage infrastructure. 
+Your application still runs on servers, but all the server management is done by AWS.
+Developer action in serverless arch => writing custom code and application logic, provision instances
+
+WORKING Serverless -> (event )Incoming requests (https)->  (handler) logic (AWS Lambda Function)-> Backend - Databases (Amazon DynamoDB/data streams)
+
+Building and Deploying Lambda functions
+1. write your code
+2. deploy to aws lambda
+3. Your code is run in response to events
+
+Serverless means 
+- No server management
+- Flexible scaling
+- automated high availability
+- no idle capacity
+
+Serverless includes many more than AWS Lambda
+- AWS lambda, amazon API Gateway
+- DynamoDB, Step Functions, SQS, S3, Kinesis, SNS
+- AWS X-Ray, CodeBuild, Third-Party Tools, SAM, CodePipeline, Open Source
+
+pywren is an open source project that allows you to do extremely high throughput computing jobs 
+using Lambda as the compute engine behind the scenes.
+
+Which of these reflect best practices for serverless development environments and deployment processes? Select all that apply.
+- Give each developer a sandbox env where they can experiement
+- Create independent demo env for feature branches
+- Automate your build and deploy process
+- Leverage deployment and app mgmnt tools within the community
+
+
