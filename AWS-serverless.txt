@@ -145,7 +145,7 @@ AWS SAM Template -> Streamlined CloudFormation Template for serverless apps
 Configuring your lambda functions
 - When building and testing a function, you must specify three primary configuration settings:
 memory, timeout and concurrency
-- Memory ~ 
+- Memory ~ you can allocate up to 10 GB of memory to Lambda func
 - Timeout ~
 - Concurrency ~
 
