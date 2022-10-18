@@ -121,6 +121,34 @@ Lambda function terms to their definitions
 Best purpose for authoring using the AWS management Console?
 => Simple one-function app with no custom libraries and experimentation
 
-AWS SAM?
+AWS SAM? 
+=> A framework that simplifies creation and deployment of your serverless apps
+=> An extension of AWS CloudFormation
 => AWS SAM is an open-source framework for building serverless applications.
-=> 
+=> Provides shorthand syntax to express functions, APIs, databases and event source mappings
+=> AWS SAM just makes it easier to set up the resources commonly needed for serverless applications.
+
+AWS SAM CLI ~ you can install the AWS SAM CLI locally to help test your serverless app, 
+validate your AWS SAM templates and streamline your deployments
+AWS SAM CLI COMMANDS 
+1. init - initializes a serverless app
+2. local - runs your app locally
+3. validate - validates an AWS SAM template
+4. deploy - deploys an AWS SAM app
+5. build - 
+
+CloudFormation Template -> Like a house blueprint - you can treat infra as code
+AWS SAM CLI -> Tool for local testing and debugging of serverless apps
+Deploy -> AWS SAM CLI command for deploying AWS SAM template
+AWS SAM Template -> Streamlined CloudFormation Template for serverless apps 
+
+Configuring your lambda functions
+- When building and testing a function, you must specify three primary configuration settings:
+memory, timeout and concurrency
+- Memory ~ 
+- Timeout ~
+- Concurrency ~
+
+
+
+
