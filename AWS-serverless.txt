@@ -163,7 +163,37 @@ What are some reasons a developer would set a concurrency limit (or reserve) on 
 - Regulate hoe long it takes to process a batch of events
 - Match the limit with a downstream resource
 
+Which patterns are Lambda invocation models?
+->Synchronous, Asynchronous, Polling
 
+Which of these statements describe a resource policy?
+- Can grant access to the Lambda function across AWS accounts
+- Determines who has access to invoke the function
+- Can give Amazon S3 permission to initiate a Lambda function
 
+Which capabilities are features of Lambda?
+- Runs code without you provisioning or managing servers
+- Scales automatically
+- Triggers Lambda functions on your behalf in response to events
 
+Which feature can a developer enable to create a copy of a function for testing?
+- Versioning
+
+Producer - create events with all required information
+Consumer - Ingests and filters events using rules
+Router - Subscribe and are notified when events occur
+
+What is the importance of the IAM execution role?
+- Gives your function permissions to interact with other services
+
+Which monitoring tool provides the ability to visualize the components of an application and the flow of API calls?
+-> AWS X-Ray
+
+What does an AWS Identity and Access management (IAM) resource based policy control?
+-> Permissions to invoke the function
+
+What are the reasons for setting a concurrency limit on a function?
+-> Manage costs
+-> Match the limit with a downstream resource
+-> Regulate how long it takes to process a batch of events
 
