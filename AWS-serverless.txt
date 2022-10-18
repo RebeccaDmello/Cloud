@@ -146,8 +146,20 @@ Configuring your lambda functions
 - When building and testing a function, you must specify three primary configuration settings:
 memory, timeout and concurrency
 - Memory ~ you can allocate up to 10 GB of memory to Lambda func
-- Timeout ~
-- Concurrency ~
+- Timeout ~ timeout value dictates how long a func can run before lambda terminates the lambda function
+- Concurrency ~ Concurrency is the number of invocations your function runs at any given moment.
+Types of Concurrency
+=> Unreserved concurrency - amount of concurrency that is not allocated to any specific set of functions
+=> Reserved concurrency - Guarantees the maximum no of concurrent instances for the funct
+=> Provisioned concurrency - Initializes a requested no. of runtime environments so that they are prepared to respond immediately to your function's invocations
+
+A developer has been asked to troubleshoot a Lambda function that is in production. They've been told that it runs for 5 minutes and has been asked to reduce its duration to save on billable costs. Which actions should the developer take? (Select THREE.)
+- Confirm whether 5 minutes is the typical duration through production monitoring
+- Test at higher memory configurations and compare the duration and cost at each confi
+- Check whether any unnecessary SDK components are in the deployment package
+
+
+
 
 
 
