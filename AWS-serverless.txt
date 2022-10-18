@@ -158,7 +158,10 @@ A developer has been asked to troubleshoot a Lambda function that is in producti
 - Test at higher memory configurations and compare the duration and cost at each confi
 - Check whether any unnecessary SDK components are in the deployment package
 
-
+What are some reasons a developer would set a concurrency limit (or reserve) on a function? (Select THREE.)
+- Manage costs
+- Regulate hoe long it takes to process a batch of events
+- Match the limit with a downstream resource
 
 
 
