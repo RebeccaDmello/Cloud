@@ -180,8 +180,8 @@ Which feature can a developer enable to create a copy of a function for testing?
 - Versioning
 
 Producer - create events with all required information
-Consumer - Ingests and filters events using rules
-Router - Subscribe and are notified when events occur
+Router - Ingests and filters events using rules
+Consumer - Subscribe and are notified when events occur
 
 What is the importance of the IAM execution role?
 - Gives your function permissions to interact with other services
